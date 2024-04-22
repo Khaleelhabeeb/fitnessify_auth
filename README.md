@@ -1,6 +1,6 @@
 # User Authentication API
 
-## view full documentation at `https://fitnessify.onrender.com/docs`
+## view full documentation at `https://fitnessify.onrender.com`
 
 This API provides endpoints for user authentication and password management. It is built using Flask and SQLAlchemy and has a MySQL database backend.
 
