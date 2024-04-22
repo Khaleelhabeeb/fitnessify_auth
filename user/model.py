@@ -33,7 +33,3 @@ Base.metadata.create_all(engine)
 
 # Create a session factory
 Session = sessionmaker(bind=engine) 
-
-
-
-
