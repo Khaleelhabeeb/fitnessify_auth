@@ -1,10 +1,12 @@
 # User Authentication API
 
+## view full documentation at `https://fitnessify.onrender.com/docs`
+
 This API provides endpoints for user authentication and password management. It is built using Flask and SQLAlchemy and has a MySQL database backend.
 
 ## Base URL
 
-The base URL for all endpoints is: `http://your-app-url/`
+The base URL for all endpoints is: `http:/fitnessify/`
 
 ## Endpoints
 
