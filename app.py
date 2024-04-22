@@ -34,7 +34,7 @@ def forgot_password_route():
     
     return forgot_password()
 
-@app.route('/logout')
+@app.route('/logout', methods=['GET'])
 def logout_route():
     from user.user_auth import logout
     
